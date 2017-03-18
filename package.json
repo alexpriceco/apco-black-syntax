@@ -1,0 +1,15 @@
+{
+  "name": "black-syntax",
+  "theme": "syntax",
+  "version": "0.0.0",
+  "description": "Atom: black",
+  "keywords": [
+    "syntax",
+    "theme"
+  ],
+  "repository": "https://github.com/alexpriceco/apco-black-syntax",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
